@@ -1,5 +1,6 @@
 # basic-password-generator
-Basic Password Generator
+
+A project that you can use to create a password
 
 Demo : https://codepen.io/jer4n/full/abVmoZE
 
