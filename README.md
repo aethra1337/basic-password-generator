@@ -1,4 +1,4 @@
-# basic-password-generator
+# Basic-password-generator
 
 A project that you can use to create a password
 
